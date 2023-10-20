@@ -1,4 +1,6 @@
 # nodejs-upload-files
+Example to upload files using nodejs
+
 
 # Install packages
 - npm i
@@ -7,4 +9,4 @@
 - node main.js
 
 # Requirements
-- Compatible with nodejs v18
+- Nodejs 18 or similar
